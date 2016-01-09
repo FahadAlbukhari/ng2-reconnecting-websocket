@@ -1,6 +1,7 @@
 #ReconnectingWebSocket
 =====================
 Based on https://github.com/daviddoran/typescript-reconnecting-websocket
+Reconnecting Websocket for Angular2
 Usage:
 a WebSocket connection that will automatically reconnect if the
 connection is dropped.

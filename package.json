@@ -23,7 +23,7 @@
     "typescript": "^1.7.5"
   },
   "gitHead": "6f622be5113aa41cd47cd9ddbb3a5fb26fd00fa9",
-  "readme": "ReconnectingWebSocket\r\n=====================\r\n\r\nA small JavaScript library that decorates the WebSocket API to provide\r\na WebSocket connection that will automatically reconnect if the\r\nconnection is dropped.\r\n\r\nIt is API compatible, so when you have:\r\n\r\n    ws = new WebSocket('ws://....');\r\n\r\nyou can replace with:\r\n\r\n    ws = new ReconnectingWebSocket('ws://....');\r\n\r\nMinified library with gzip compression is less than 600 bytes.\r\n",
+  "readme": "Reconnecting Websocket for Angular2\r\na WebSocket connection that will automatically reconnect if the\r\nconnection is dropped.\r\n\r\nIt is API compatible, so when you have:\r\n\r\n    ws = new WebSocket('ws://....');\r\n\r\nyou can replace with:\r\n\r\n    ws = new ReconnectingWebSocket('ws://....');\r\n\r\nMinified library with gzip compression is less than 600 bytes.\r\n",
   "readmeFilename": "README.md",
   "description": "ReconnectingWebSocket\r =====================",
   "bugs": {
